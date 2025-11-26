@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Nikhil Simple WebApp</title>
+</head>
+<body>
+    <h1>Welcome to My Simple WebApp!</h1>
+    <p>This is deployed using Azure CI/CD.</p>
+</body>
+</html>
